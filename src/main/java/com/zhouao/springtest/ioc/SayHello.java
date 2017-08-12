@@ -1,4 +1,4 @@
-package com.zhouao.helloworld;
+package com.zhouao.springtest.ioc;
 
 public class SayHello {
 

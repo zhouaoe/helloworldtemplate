@@ -1,4 +1,4 @@
-package com.zhouao.helloworld;
+package com.zhouao.springtest.ioc;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
